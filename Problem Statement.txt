@@ -1,0 +1,5 @@
+Write a program to do selection sort on a linked list.
+a. Create a single linked list of at least 10 nodes. The values in the nodes are not in sorted order of any kind
+b. Now sort the linked list in descending order. Do not swap the values of nodes to sort, but instead unlink the actual nodes and re-link them so that the final list is sorted.
+c. Do linked list traversal from head  : first before sort , then a second time after sort.
+d. submit the code.  Also submit screen shot of execution results.
